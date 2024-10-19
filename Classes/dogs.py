@@ -22,7 +22,9 @@ class Dogs:
 
 class BreedyDog(Dogs):
     def __init__(self, name, age, color, breed):
-        self.breed = breed
+        self.__breed = breed
         super().__init__(name, age, color)
 
+    def get_breed(self):
+        return self.__breed
 
