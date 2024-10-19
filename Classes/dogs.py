@@ -16,3 +16,8 @@ class Dogs:
     def set_age(self, age):
         self.__age = age
 
+    def bark(self):
+        print(f"Собака {self.get_name()}, возраст: {self.get_age()}, цвета {self.get_color()} гавкает громко")
+
+
+
