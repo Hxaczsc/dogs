@@ -20,4 +20,9 @@ class Dogs:
         print(f"Собака {self.get_name()}, возраст: {self.get_age()}, цвета {self.get_color()} гавкает громко")
 
 
+class BreedyDog(Dogs):
+    def __init__(self, name, age, color, breed):
+        self.breed = breed
+        super().__init__(name, age, color)
+
 
