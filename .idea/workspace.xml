@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e2df9c2-21d3-47b7-80f9-9b8189fa74dd" name="Changes" comment="расширен метод bark для класса-наследника">
-      <change beforePath="$PROJECT_DIR$/Classes/dogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/dogs.py" afterDir="false" />
+    <list default="true" id="8e2df9c2-21d3-47b7-80f9-9b8189fa74dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,31 +68,7 @@
       <option name="project" value="LOCAL" />
       <updated>1729357084766</updated>
     </task>
-    <task id="LOCAL-00002" summary="добавлен класс-наследник BreedyDog и его поля">
-      <option name="closed" value="true" />
-      <created>1729375535601</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1729375535601</updated>
-    </task>
-    <task id="LOCAL-00003" summary="поля класса-наследника защищены, добавлены геттеры к полям класса-наследника">
-      <option name="closed" value="true" />
-      <created>1729375877320</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1729375877320</updated>
-    </task>
-    <task id="LOCAL-00004" summary="расширен метод bark для класса-наследника">
-      <option name="closed" value="true" />
-      <created>1729376012765</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1729376012765</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,9 +84,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлен гитигнор и файл для классов" />
-    <MESSAGE value="добавлен класс-наследник BreedyDog и его поля" />
-    <MESSAGE value="поля класса-наследника защищены, добавлены геттеры к полям класса-наследника" />
-    <MESSAGE value="расширен метод bark для класса-наследника" />
-    <option name="LAST_COMMIT_MESSAGE" value="расширен метод bark для класса-наследника" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлен гитигнор и файл для классов" />
   </component>
 </project>
