@@ -33,3 +33,5 @@ class BreedyDog(Dogs):
         super().bark()
         print(f"Порода: {self.get_breed()}")
 
+    def go_to_dog_show(self):
+        print(f"Собака {super().get_name()}, породы {self.get_breed()} участвует в выставке")
