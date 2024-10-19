@@ -28,3 +28,8 @@ class BreedyDog(Dogs):
     def get_breed(self):
         return self.__breed
 
+
+    def bark(self):
+        super().bark()
+        print(f"Порода: {self.get_breed()}")
+
